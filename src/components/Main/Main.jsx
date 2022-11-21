@@ -3,26 +3,26 @@ import  './Main.css'
 
 function Main() {
   return (
-    <div class="integrate">
-            <div class="what-can-you">
-            <div class="what-can-you__container _container-narrow">
-                <h3 class="what-can-you__title">Трендові товари</h3>
-                <div class="what-can-you__content">    
-                    <div class="what-can-you__item">
+    <div className="integrate">
+            <div className="what-can-you">
+            <div className="what-can-you__container _container-narrow">
+                <h3 className="what-can-you__title">Трендові товари</h3>
+                <div className="what-can-you__content">    
+                    <div className="what-can-you__item">
                     </div>
-                    <div class="what-can-you__item">
+                    <div className="what-can-you__item">
                     </div>
-                    <div class="what-can-you__item">
+                    <div className="what-can-you__item">
                     </div>
-                    <div class="what-can-you__item">
+                    <div className="what-can-you__item">
                     </div>
-                    <div class="what-can-you__item">  
+                    <div className="what-can-you__item">  
                     </div>
-                    <div class="what-can-you__item">
+                    <div className="what-can-you__item">
                     </div>
-                    <div class="what-can-you__item">
+                    <div className="what-can-you__item">
                     </div>
-                    <div class="what-can-you__item">
+                    <div className="what-can-you__item">
                     </div>
                 </div>
             </div>
